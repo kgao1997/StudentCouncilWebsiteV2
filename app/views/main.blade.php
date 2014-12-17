@@ -8,8 +8,14 @@
  height:600px;
  margin-left: 50px;
  float: left">
-<h1>Mission Statement</h1><br>
 <br>
+Jan 20th Community Forum Survey<br>
+We need your opinions! Please complete this brief, anonymous survey. Thank You!<br>
+<br>
+<a href = "https://docs.google.com/forms/d/1qlVvBQY0weXTmwQ-89R2S0mR563PWun3SjUBLZJMwaY/viewform"> Community Forum Survey </a>
+<br>
+<br>
+<h1>Mission Statement</h1><br>
 We seek to provide an open forum for students concerns and ideas for improving Boston Latin School<br>
 in order to make it a more effective and enjoyable learning environment for all.<br>
 <br>
@@ -22,11 +28,8 @@ and working to solve the problems that face their fellow classmates. <br>
 <br>
 <br> 
 
-Here's a survey for your opinions!<br>
-Please fill it out if you have the time.  All answers are anonymous<br>
-Thank You!<br>
-<br>
-<a href = "https://docs.google.com/forms/d/1qlVvBQY0weXTmwQ-89R2S0mR563PWun3SjUBLZJMwaY/viewform"> Student Opinion Survey </a>
+
+
 
 
 </div>
