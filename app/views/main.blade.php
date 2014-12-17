@@ -12,7 +12,7 @@
 Jan 20th Community Forum Survey<br>
 We need your opinions! Please complete this brief, anonymous survey. Thank You!<br>
 <br>
-<a href = "https://docs.google.com/forms/d/1qlVvBQY0weXTmwQ-89R2S0mR563PWun3SjUBLZJMwaY/viewform"> Community Forum Survey </a>
+<a href = "https://docs.google.com/forms/d/1qlVvBQY0weXTmwQ-89R2S0mR563PWun3SjUBLZJMwaY/viewform?c=0&w=1"> Community Forum Survey </a>
 <br>
 <br>
 <h1>Mission Statement</h1><br>
