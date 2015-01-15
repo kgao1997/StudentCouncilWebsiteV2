@@ -26,7 +26,7 @@ We will be discussing the issues outlined in the recent Student Climate Survey a
 community and our local communities.  <br>
 Come one come all! <br>
 <br>
-Guest Speaker - January 26th<br>
+Guest Speaker - Febuary 6th<br>
 We will be having a special guest speaker come in and share her experiences on January 26th.<br>
 Check back for more details!<br>
 <br>
