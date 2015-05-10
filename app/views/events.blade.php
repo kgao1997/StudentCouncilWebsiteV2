@@ -22,7 +22,7 @@ Come in and enjoy snacks and good times as we have a small party after school an
 forum survey!<br>
 <br>
 Open Community Forum- January 20th <br>
-We will be discussing the issues outlined in the recent Student Climate Survey and how they affect both our school<br>
+We discussed the issues outlined in the Student Climate Survey and how they affect both our school<br>
 community and our local communities.  <br>
 Come one come all! <br>
 <br>
